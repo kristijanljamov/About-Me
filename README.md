@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristijan Ljamov</h1>
-<h3 align="center">A Passionate Front-End Developer from Macedonia.</h3>
+<h3 align="center">A passionate Web Developer from Macedonia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljamov" alt="ljamov" /> </p>
 
